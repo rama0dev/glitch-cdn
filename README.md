@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/npm/v/glitch-cdn" />
 </p>
 
-> With this module you can publish files automatically on the Glitch CDN
+> With this module you can publish files automatically on the Glitch.com CDN
 
 ## Install
 
@@ -21,6 +21,9 @@ glitchcdn.upload("1c0612ac-e403-4a0b-95e9-3a75d1f650f9","e3de541d-95d7-4ed6-a3ee
     console.log(returndata) 
 })
 ```
+
+> ⚠️Content that you upload to the server will not show up in the "Assets" tab
+
 
 ## Author
 
