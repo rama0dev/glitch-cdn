@@ -1,0 +1,26 @@
+{
+  "name": "glitch-cdn",
+  "version": "1.0.3",
+  "description": "Upload your files to free Glitch.com CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rama0dev/glitch-cdn.git"
+  },
+  "keywords": [
+    "glitch",
+    "cdn",
+    "free",
+    "upload",
+    "files"
+  ],
+  "author": "Rama0dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rama0dev/glitch-cdn/issues"
+  },
+  "homepage": "https://github.com/rama0dev/glitch-cdn#readme"
+}
