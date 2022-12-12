@@ -8,6 +8,8 @@
 
 > ⚠️Content that you upload to the server will not show up in the "Assets" tab
 
+> ❗ Glitch.com CDN has a limit of 250mb per file
+
 ## Install
 
 ```sh
