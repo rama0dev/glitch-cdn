@@ -13,7 +13,7 @@ npm i glitch-cdn
 
 ## Usage
 
-```sh
+```js
 var glitchcdn = require("glitch-cdn");
 
 //Structure upload2glitch.upload(authorization, projectId, file, url) 
