@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to glitch-cdn 😘</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/npm/v/glitch-cdn" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/rama0dev" />
 </p>
 
 > With this module you can publish files automatically on the Glitch.com CDN
