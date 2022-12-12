@@ -5,6 +5,7 @@
 </p>
 
 > With this module you can publish files automatically on the Glitch.com CDN
+
 > ⚠️Content that you upload to the server will not show up in the "Assets" tab
 
 ## Install
